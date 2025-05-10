@@ -3,7 +3,7 @@ import string
 
 def remove_stop_words():
 
-    with open("stoplist.txt", "r") as f:
+    with open("doc1.txt", "r") as f:
         stopwords = set(word.strip().lower() for word in f)
     return stopwords
 
