@@ -1,0 +1,3 @@
+The scurries main approach was simple: to look at solar outlet and
+cosmic ray intensiyt over the last 9 years, and compare those
+trends with the graph for global 9 surface telegrams

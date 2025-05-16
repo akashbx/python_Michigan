@@ -1,0 +1,6 @@
+doc1 programming languages are important
+doc2 systems programming uses low-level languages
+doc3 operating systems manage hardware
+doc4 practicum teaches programming skills
+doc5 operating systems are essential
+doc6 practicum includes hands-on operating experience
